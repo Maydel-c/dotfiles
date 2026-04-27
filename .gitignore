@@ -1,0 +1,16 @@
+# macOS junk
+.DS_Store
+
+# logs / caches
+*.log
+cache/
+tmp/
+
+# secrets
+*.token
+*.key
+
+# plugins (managed externally)
+.config/tmux/plugins/
+.zsh-plugins/
+
