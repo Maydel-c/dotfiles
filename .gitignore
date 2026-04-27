@@ -13,4 +13,4 @@ tmp/
 # plugins (managed externally)
 .config/tmux/plugins/
 .zsh-plugins/
-
+.gitconfig
